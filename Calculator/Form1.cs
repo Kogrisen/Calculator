@@ -22,11 +22,6 @@ namespace Calculator
             previous_number_n_operator.Text = "";
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void number_clicked(object sender, EventArgs e)
         {
             Button b = (Button)sender;
