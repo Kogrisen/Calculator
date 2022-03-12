@@ -59,7 +59,6 @@ namespace Calculator
                 Error_Msg();
                 throw;
             }
-
         }
 
         private void zero_clicked(object sender, EventArgs e)
